@@ -2,7 +2,7 @@
 A dependency to show you're not happy about your d̵̥̤̣̣̹̞͍̈̀̍̉ͅe̶̲̣̰̻̜̓͐̂̔̀͒̎͌̓̕p̸͕͈̻͂ẹ̷̞̣̝̿́͒n̷̰̗̥̅̿͊͗̓̈́͘d̶̢̢͈͙͔̥͋e̶̡̛̫̘͙̹͍̰̝̐̅̌̽͐́̀͜ͅn̶̨̧̢͉͔̩̞̺̒̃̐̌̔͐͂̉͘͝ͅc̶̙̜͚͂̐̃̂̂̽ḯ̵̭͚͓̭͇̙̍̀̈́͝͝e̴͎͉̻̬̰͍͑̀̓͊͑̊̾͜͠s̸̢̨̥̺̓͌̇͌̆̔̽̇͋̀
 
 This solution is composed of:
-- mescouillessurtonfront.js: client side implementation, embed his own IoC engine to avoid you any hastle, as well as a logger, web controls, a debug api and support any browser from links to netscape as well as google explorer and more, it's plug and play ! 
+- mescouillessurtonfront.js: client side implementation, embed his own IoC engine to avoid you any hastle, as well as a logger, web controls, a debug api and support any browser from links to netscape as well as google explorer and more, it's plug and pray ! 
 - mescouillessurtonnez PRO: for any serious backend high performance real time critical 100.1% avail. implementation with nodejs. (msi only, request your quote)
 - mescouillessurtonventre: a docker container providing a multimedia demo and documentation.
 
@@ -11,8 +11,7 @@ mescouillessurtonnez.js take your mistakes and turn them into technical debt tha
 Our technology allow us to filter and redo any bug in your application, allowing you to blame mescouillessurtonnez.js for the problem.
 We take your runtime bugs, and analyse them with a complex ML-based salsa rythm sauce, then, if the blame should be on you, we re-emit-it, you blame-it!
 
-mescouillessurton is an african slang used to wish confidence, pride and glory to people you care about, that's why we called it that way and that's why we've decided to build and release for free this solution for our developer bro's, because we care about you <3 Your failure, is our failure! Let's succeed or not together! What matter is the journey! Failing is the first step to progress! Believe in yourself! Trust your code! Open your third eye! Unleash your creativity! I can still hear you sayin'!
-You would never break the chain!
+mescouillessurton is an african slang used to wish confidence, pride and glory to people you care about, that's why we called it that way and that's why we've decided to build and release for free this solution for our developer bro's, because we care about you <3 Your failure, is our failure! Let's succeed or not together! What matter is the journey! Failing is the first step to progress! Believe in yourself! Trust your code! Open your third eye! Unleash your creativity!
 
 When you have a hammer, eat it, then put your head over those god damn nails and crucify your forehead, slowly...
 
