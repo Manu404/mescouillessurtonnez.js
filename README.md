@@ -4,7 +4,7 @@ A dependency to show you're not happy about your d̵̥̤̣̣̹̞͍̈̀̍̉ͅe̶�
 This solution is composed of:
 - **mescouillessurtonfront‧js**: client side implementation, embed his own IoC engine to avoid you any hastle, as well as a logger, web controls, a debug api and support any browser from links to netscape as well as google explorer and more, it's plug and pray ! 
 - **mescouillessurtonnez PRO**: for any serious backend high performance real time critical 100.1% avail. implementation with nodejs. (msi only, request your quote)
-- **mescouillessurtonventre**: a docker container providing a multimedia demo and documentation.
+- **mescouillessurtonventre**: a docker container providing a multimedia demo and interactive hypertext based documentation.
 
 Once mescouillessurtonnez‧js is imported in your web solution, it will make sure that anybody reading the code know you too don't know shit about anything and shouldn't be held accountable for or questionned about anything. 
 mescouillessurtonnez‧js take your mistakes and turn them into technical debt that can be managed by next round of hiring ! 
