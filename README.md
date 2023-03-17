@@ -12,7 +12,9 @@ mescouillessurtonnez‧js take your mistakes and turn them into technical debt t
 Our technology allow us to handle any byg in your application, then redo it, allowing you to blame mescouillessurtonnez‧js for the problem.
 We take your runtime bugs, and analyse them with a complex ML-based salsa rythm sauce algorithm, then, if the blame should be on you, *we re-emit-it, you blame-it!*
 
-mescouillessurton is an african slang used to wish confidence, pride and glory to people you care about, that's why we called it that way and that's why we've decided to build and release for free this solution for our developer bro's, because we care about you <3 Your failure, is our failure! Let's succeed or not together! What matter is the journey! Failing is the first step to progress! Believe in yourself! Trust your code! Open your third eye! Unleash your creativity!
+mescouillessurton is an african slang used to wish confidence, pride and glory to people you care about, that's why we called it that way and that's why we've decided to build and release for free this solution for our developer bro's, because we care about you <3 
+
+Your failure, is our failure! Let's succeed or not together! What matter is the journey! Failing is the first step to progress! Believe in yourself! Trust your code! Open your third eye! Unleash your creativity!
 
 ### When you have a hammer, eat it, then put your head over those god damn nails and crucify your forehead, slowly...
 
